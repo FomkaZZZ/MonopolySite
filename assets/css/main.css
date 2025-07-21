@@ -3675,7 +3675,7 @@ input, select, textarea {
 				width: 1.5em;
 			}
 
-		#banner:after {
+		/* #banner:after {
 			pointer-events: none;
 			-moz-transition: opacity 1s ease-in-out;
 			-webkit-transition: opacity 1s ease-in-out;
@@ -3694,7 +3694,7 @@ input, select, textarea {
 			left: 0;
 			top: 0;
 			opacity: 0;
-		}
+		} */
 
 		@media screen and (max-width: 736px) {
 
